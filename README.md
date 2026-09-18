@@ -2,7 +2,7 @@
 
 A vanilla JavaScript to-do list that automatically sorts tasks into **Today**, **Future**, and **Completed** based on their deadline, and persists everything across browser sessions using `localStorage`.
 
-**Live demo:** _add your GitHub Pages link here_
+**Live demo:** (https://aj1234-p.github.io/ToDo_List-/)
 
 ---
 
